@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //Chave do APK JLeitor
+
         //https://github.com/wgcarvalho/scan-qrcode-android-zxing/tree/master/app
         //https://www.youtube.com/watch?v=125WPZHxU7E
         //-----------------------------------
